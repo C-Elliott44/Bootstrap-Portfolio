@@ -1,0 +1,118 @@
+.icons {
+    border: 1px solid #ccc;
+    background-color: #ffffff
+}
+
+h1, h2{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2 {
+    color: #4aaaa5;
+    border-bottom: 3px solid #ccc;
+    font-size: 140%;
+}
+
+.wallpaper{
+    background-image: url(doodles.png)
+}
+
+.section{
+    background-color: white;
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    font-size: 17px;
+    line-height: 1.5;
+}
+
+.footer {
+    color: white;
+    background-color: #666666;
+    border-top: 9px solid #4aaaa5;
+    position: fixed;
+    height: 41px;
+    text-align: center;
+    padding-top: 27px;
+    left: 0;
+    right: 0;
+    bottom: 0%;
+}
+
+.rock{
+    width: 46%;
+}
+
+.rpg{
+    width: 46%;
+}
+
+.trivia{
+    width: 46%;
+}
+
+.hangman{
+    width: 50%;
+}
+
+.rutgers{
+    width: 46%;
+}
+
+.rockp{
+    text-align: center;
+    background-color: #49aaa4;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 60px;
+    width: 46%;
+}
+
+.hangmanp{
+    text-align: center;
+    background-color: #49aaa4;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 60px;
+    width: 50%;
+    
+}
+
+.rutgersp{
+    text-align: center;
+    background-color: #49aaa4;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 60px;
+    width: 46%;
+}
+
+.triviap{
+    text-align: center;
+    background-color: #49aaa4;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 60px;
+    width: 46%;
+}
+
+.rpgp{
+    text-align: center;
+    background-color: #49aaa4;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    bottom: 60px;
+    width: 46%;
+}
